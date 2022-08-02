@@ -1,2 +1,2 @@
 # odin-recipes
-Odin Project recipes project
+Model repie website to practice HTML 
